@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Spring2023-CPW221-FirstSiteOnAzure/Properties/ServiceDependencies/Spring2023-CPW221-FirstSiteOnAzure - Zip Deploy/profile.arm.json
